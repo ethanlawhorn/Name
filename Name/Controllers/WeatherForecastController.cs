@@ -9,7 +9,7 @@ namespace Name.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return "Ethan Lawhorn";
+            return "json notation";
         }
     }
 }
